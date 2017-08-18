@@ -1,0 +1,5 @@
+interface SVGCircleElement : SVGElement {
+  [SameObject] readonly attribute Object cx;
+  [SameObject] readonly attribute Object cy;
+  [SameObject] readonly attribute Object r;
+}; 

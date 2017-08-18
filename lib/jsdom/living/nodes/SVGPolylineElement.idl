@@ -1,0 +1,3 @@
+interface SVGPolylineElement : SVGElement {
+  readonly attribute Array<number> points;
+};

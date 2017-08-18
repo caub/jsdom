@@ -1,0 +1,3 @@
+interface SVGPathElement : SVGElement {};
+
+// TODO: SVG*Element's should inherit SVGGeometryElement which inherits SVGGraphicsElement

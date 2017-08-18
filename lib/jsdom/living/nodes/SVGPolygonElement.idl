@@ -1,0 +1,3 @@
+interface SVGPolygonElement : SVGElement {
+  readonly attribute Array<number> points;
+};
