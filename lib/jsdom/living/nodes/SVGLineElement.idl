@@ -1,6 +1,6 @@
 interface SVGLineElement : SVGElement {
-  [SameObject] readonly attribute Object x1;
-  [SameObject] readonly attribute Object y1;
-  [SameObject] readonly attribute Object x2;
-  [SameObject] readonly attribute Object y2;
+  // [SameObject] readonly attribute Object x1;
+  // [SameObject] readonly attribute Object y1;
+  // [SameObject] readonly attribute Object x2;
+  // [SameObject] readonly attribute Object y2;
 };

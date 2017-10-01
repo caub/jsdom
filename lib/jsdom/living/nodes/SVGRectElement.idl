@@ -1,8 +1,8 @@
 interface SVGRectElement : SVGElement {
-  [SameObject] readonly attribute Object x; // TODO SVGAnimatedLength
-  [SameObject] readonly attribute Object y;
-  [SameObject] readonly attribute Object width;
-  [SameObject] readonly attribute Object height;
-  [SameObject] readonly attribute Object rx;
-  [SameObject] readonly attribute Object ry;
+  // [SameObject] readonly attribute Object x; // TODO SVGAnimatedLength
+  // [SameObject] readonly attribute Object y;
+  // [SameObject] readonly attribute Object width;
+  // [SameObject] readonly attribute Object height;
+  // [SameObject] readonly attribute Object rx;
+  // [SameObject] readonly attribute Object ry;
 };

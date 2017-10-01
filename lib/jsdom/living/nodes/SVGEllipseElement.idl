@@ -1,6 +1,6 @@
 interface SVGEllipseElement : SVGElement {
-  [SameObject] readonly attribute Object cx;
-  [SameObject] readonly attribute Object cy;
-  [SameObject] readonly attribute Object rx;
-  [SameObject] readonly attribute Object ry;
+  // [SameObject] readonly attribute Object cx;
+  // [SameObject] readonly attribute Object cy;
+  // [SameObject] readonly attribute Object rx;
+  // [SameObject] readonly attribute Object ry;
 };
